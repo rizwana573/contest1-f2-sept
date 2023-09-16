@@ -2,7 +2,7 @@ let arr = [
   { id: 1, name: 'john', age: 18, profession: 'developer', salary: 1000 },
   { id: 2, name: 'jack', age: 20, profession: 'developer', salary: 1100 },
   { id: 3, name: 'karen', age: 19, profession: 'admin', salary: 900 },
-];
+]; 
 
 // 1. Print all developers from the array whose salary is above the average salary of the array.
 function PrintHighEarningDevelopers() {
